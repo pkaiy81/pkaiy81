@@ -1,4 +1,4 @@
-<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hello%20world!&speed=300&comment="></a>
+<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hello%20bizarre%20world!%20&speed=100&comment="></a>
 
 ---
 
