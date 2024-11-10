@@ -1,6 +1,12 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pkaiy81&label=Profile%20views&color=0e75b6&style=flat" alt="pkaiy81" /> </p>
+
+---
+
 <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hello%20bizarre%20world!%20&speed=100&comment="></a>
 
 ---
+
+## 🔭 Activities
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkaiy81&layout=compact&show_icons=true&theme=cobalt" />
